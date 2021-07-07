@@ -15,7 +15,6 @@ public class Player {
     }
 
     public void getDetails(){
-        System.out.println("Hello");
 
     }
 
