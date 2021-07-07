@@ -10,10 +10,12 @@ public class Player {
     int statistic;
 
     public void getAverage(){
+        System.out.println("Hello");
 
     }
 
     public void getDetails(){
+        System.out.println("Hello");
 
     }
 
